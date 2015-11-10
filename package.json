@@ -1,0 +1,16 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dayo Adeyemi",
+  "license": "ISC",
+  "dependencies": {
+    "highland": "^2.5.1",
+    "ramda": "^0.18.0",
+    "redis": "^2.3.0"
+  }
+}
